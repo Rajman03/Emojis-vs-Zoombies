@@ -1,4 +1,5 @@
 //! Emojis vs Zombies — rekonstrukcja w Rust.
+//! Project creator: Rajman03
 //!
 //! Uruchomienie:  cargo run --release
 //! Autotest:      cargo run --release -- --selftest
